@@ -1339,7 +1339,9 @@ img {
   }
 
   .qualification_tabs{
-    justify-content: center;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: var(--mb-2);
   }
 
   .qualification_button{
