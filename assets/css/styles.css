@@ -685,6 +685,9 @@ img {
 .qualification_button.qualification_active{
   color: var(--first-color);
 }
+.qualification_active{
+  color: #FFF;
+}
 /*==================== SERVICES ====================*/
 .services_container{
   gap: 1.5rem;
